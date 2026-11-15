@@ -1,0 +1,51 @@
+Date,Category,Amount,Payment_Method
+2026-10-01,Food,14.50,Card
+2026-10-01,Transport,5.00,Cash
+2026-10-02,Rent,850.00,Bank Transfer
+2026-10-02,Food,22.00,Card
+2026-10-03,Entertainment,18.00,Card
+2026-10-04,Utilities,65.00,Bank Transfer
+2026-10-04,Food,,Cash
+2026-10-05,Transport,12.50,Card
+2026-10-06,Food,9.75,Cash
+2026-10-07,Entertainment,35.00,Card
+2026-10-08,food,4.50,Cash
+2026-10-08,food,4.50,Cash
+2026-10-09,Utilities,45.00,Bank Transfer
+2026-10-10,Food,28.40,Card
+2026-10-10,Transport,7.00,Cash
+2026-10-11,Entertainment,15.00,Card
+2026-10-12,Food,19.20,Card
+2026-10-13,Transport,14.00,Card
+2026-10-14,Food,11.00,Cash
+2026-10-15,Utilities,55.00,Bank Transfer
+2026-10-16,Food,31.50,Card
+2026-10-17,Entertainment,42.00,Card
+2026-10-18,Transport,6.50,Cash
+2026-10-19,Transport,16.00,Card
+2026-10-19,Transport,16.00,Card
+2026-10-20,Food,13.80,Card
+2026-10-21,Entertainment,12.00,Cash
+2026-10-22,Food,,Card
+2026-10-23,Transport,9.00,Cash
+2026-10-24,Food,24.60,Card
+2026-10-25,Entertainment,29.00,Card
+2026-10-26,Food,8.50,Cash
+2026-10-27,Transport,11.20,Card
+2026-10-28,Utilities,70.00,Bank Transfer
+2026-10-29,Food,17.90,Card
+2026-10-30,Entertainment,21.50,Cash
+2026-10-31,Food,26.00,Card
+2026-11-01,Rent,850.00,Bank Transfer
+2026-11-01,Transport,5.50,Cash
+2026-11-02,Food,15.25,Card
+2026-11-03,Entertainment,19.00,Card
+2026-11-04,Food,10.50,Cash
+2026-11-05,Transport,13.00,Card
+2026-11-06,Utilities,60.00,Bank Transfer
+2026-11-07,food,16.75,Card
+2026-11-08,Entertainment,25.00,Card
+2026-11-09,Transport,8.00,Cash
+2026-11-10,Food,21.30,Card
+2026-11-11,Entertainment,14.50,Cash
+2026-11-12,Food,18.00,Card
