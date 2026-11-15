@@ -6,9 +6,9 @@ A simple program which reads a CSV file of expenses and calculates basic spendin
 * `expenses.csv` - Dataset containing 30 expense records across different categories and payment methods.
 
 ## How it Works 
-* load_data(filename) reads the CSV 
-* clean_data(f) removes duplicate entries, drops rows with missing amounts, fixes inconsistent capitalization in categories, and standardizes `Bank Transfer` entries to `UPI`
-* basic_stats(f), payment_stats(f), category_stats(f) calcualte the statistics from the given CSV using functions from Pandas. 
+* 'load_data(filename)' reads the CSV 
+*' clean_data(f)' removes duplicate entries, drops rows with missing amounts, fixes inconsistent capitalization in categories, and standardizes `Bank Transfer` entries to `UPI`
+* 'basic_stats(f)', 'payment_stats(f)', 'category_stats(f)' calcualte the statistics from the given CSV using functions from Pandas. 
 
 
 ## How to Run
