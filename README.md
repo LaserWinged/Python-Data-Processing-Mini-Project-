@@ -26,6 +26,6 @@ A simple program which reads a CSV file of expenses and calculates basic spendin
   1. 2 blank amounts (Row 7 and 28)
   2. 2 duplicate rows 
   3. Inconsistent Capitalization
-  This was intentional to test the `clean_data(f)` function.
+  This was intentional to test `clean_data(f)` function.
  
   **I used an AI Assistant to help with parts of the code** 
